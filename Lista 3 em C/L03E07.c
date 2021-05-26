@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 //exercicio 7 - lista 3
 
 int main()
