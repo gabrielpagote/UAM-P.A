@@ -1,4 +1,5 @@
 #include <stdio.h>
+// exercicio 8s - lista 4
 
 int main () {
     float x, y, z;
